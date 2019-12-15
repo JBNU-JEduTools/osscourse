@@ -21,6 +21,7 @@ https://github.com/hyunchan-park/osscourse
 
 
 2019.12.11 15학번 이성주 학생 업데이트
+
 2019.12.15 15학번 조인수 학생 업데이트
 ****
 
