@@ -65,4 +65,22 @@ https://github.com/hyunchan-park/osscourse
 
 # References
 
-*  [References](/References)
+*  [2002 오픈소스 소프트웨어 연구 보고서 한국소프트웨어진흥원](/References/2002%20%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%20%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EC%97%B0%EA%B5%AC%20%EB%B3%B4%EA%B3%A0%EC%84%9C%20%ED%95%9C%EA%B5%AD%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EC%A7%84%ED%9D%A5%EC%9B%90.pdf)
+*  [2010 오픈소스 개발 방법론 - Mozilla 사례 중심 윤석찬님](/References/2010%20%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%20%EA%B0%9C%EB%B0%9C%20%EB%B0%A9%EB%B2%95%EB%A1%A0%20-%20Mozilla%20%EC%82%AC%EB%A1%80%20%EC%A4%91%EC%8B%AC%20%EC%9C%A4%EC%84%9D%EC%B0%AC%EB%8B%98.pdf)
+*  [2012 08 오픈 소스의 4가지 미신 윤석찬님](/References/2012%2008%20%EC%98%A4%ED%94%88%20%EC%86%8C%EC%8A%A4%EC%9D%98%204%EA%B0%80%EC%A7%80%20%EB%AF%B8%EC%8B%A0%20%EC%9C%A4%EC%84%9D%EC%B0%AC%EB%8B%98.pdf)
+*  [2015 02 Open-Source Business Models](/References/2015%2002%20Open-Source%20Business%20Models.pdf)
+*  [2016 01 OSS 튜토리얼 이민석 교수님](/References/2016%2001%20OSS%20%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC%20%EC%9D%B4%EB%AF%BC%EC%84%9D%20%EA%B5%90%EC%88%98%EB%8B%98%20.pptx)
+*  [2016 02 오픈소스의 이해 정명훈 (오픈소스컨설팅)](/References/2016%2002%20%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EC%9D%98%20%EC%9D%B4%ED%95%B4%20%EC%A0%95%EB%AA%85%ED%9B%88%20(%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EC%BB%A8%EC%84%A4%ED%8C%85).pdf)
+*  [2016 Future of Open Source Survey Results, North Bridge + Black Duck](/References/2016%20Future%20of%20Open%20Source%20Survey%20Results%2C%20North%20Bridge%20%2B%20Black%20Duck.pdf)
+*  [2016 공개SW 거버넌스개요](/References/2016%20%EA%B3%B5%EA%B0%9CSW%20%EA%B1%B0%EB%B2%84%EB%84%8C%EC%8A%A4%EA%B0%9C%EC%9A%94.pdf)
+*  [2017 06 오픈소스 라이선스 해설 1.0.0_한글번역본_최종](/References/2017%2006%20%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%20%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4%20%ED%95%B4%EC%84%A4%201.0.0_%ED%95%9C%EA%B8%80%EB%B2%88%EC%97%AD%EB%B3%B8_%EC%B5%9C%EC%A2%85.pdf)
+*  [2017 08 기업이 알아야 하는 공개SW 라이선스 및 거버넌스의 이해_박준석](/References/2017%2008%20%EA%B8%B0%EC%97%85%EC%9D%B4%20%EC%95%8C%EC%95%84%EC%95%BC%20%ED%95%98%EB%8A%94%20%EA%B3%B5%EA%B0%9CSW%20%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4%20%EB%B0%8F%20%EA%B1%B0%EB%B2%84%EB%84%8C%EC%8A%A4%EC%9D%98%20%EC%9D%B4%ED%95%B4_%EB%B0%95%EC%A4%80%EC%84%9D.pdf)
+*  [2017 Summary Analysis of the 2017 GitHub Open Source Survey](/References/2017%20Summary%20Analysis%20of%20the%202017%20GitHub%20Open%20Source%20Survey.pdf)
+*  [2018 02 Naver OpenSource Seminar 권민재님](/References/2018%2002%20Naver%20OpenSource%20Seminar%20%EA%B6%8C%EB%AF%BC%EC%9E%AC%EB%8B%98.pdf)
+*  [2018 06 공개 소프트웨어 연구개발 수행 가이드라인](https://github.com/hyunchan-park/osscourse/blob/mastereferences/2018%2006%20%EA%B3%B5%EA%B0%9C%20%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EC%97%B0%EA%B5%AC%EA%B0%9C%EB%B0%9C%20%EC%88%98%ED%96%89%20%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B8.pdf)
+*  [2016 01 OSS 튜토리얼 이민석 교수님]()
+*  [2016 01 OSS 튜토리얼 이민석 교수님]()
+*  [2016 01 OSS 튜토리얼 이민석 교수님]()
+*  [2016 01 OSS 튜토리얼 이민석 교수님]()
+*  [2016 01 OSS 튜토리얼 이민석 교수님]()
+*  [2016 01 OSS 튜토리얼 이민석 교수님]()
