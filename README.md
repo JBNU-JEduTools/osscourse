@@ -26,7 +26,7 @@ https://github.com/hyunchan-park/osscourse
 
 ## :octocat: OSS?
 
-*  [Introduction OSS](../Slides/0.%20Introduction%20OSS.pptx)
+*  [Introduction OSS](../Slides/0. Introduction OSS.pptx)
 *  [OSS hitstory](https://github.com/hyunchan-park/osscourse/blob/master/Slides/1.%20OSS%20hitstory.pptx)
 *  [Open Source SW](https://github.com/hyunchan-park/osscourse/blob/master/Slides/2.%20Open%20Source%20SW.pptx)
 *  [OSS License](https://github.com/hyunchan-park/osscourse/blob/master/Slides/3.%20OSS%20License.pptx)
