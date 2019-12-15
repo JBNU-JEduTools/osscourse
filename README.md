@@ -24,44 +24,39 @@ https://github.com/hyunchan-park/osscourse
 
 ****
 
-## :computer: OSS?
+## 1. OSS?
 
-*  [Introduction OSS](/Slides/0.%20Introduction%20OSS.pptx)
-*  [OSS hitstory](/Slides/1.%20OSS%20hitstory.pptx)
-*  [Open Source SW](/Slides/2.%20Open%20Source%20SW.pptx)
-*  [OSS License](/Slides/3.%20OSS%20License.pptx)
-*  [Using Open Source SW](/Slides/4.%20Using%20Open%20Source%20SW.pptx)
+*  [Introduction OSS](/PDFs/0.%20Introduction%20OSS.pdf)
+*  [OSS hitstory](/PDFs/1.%20OSS%20hitstory.pdf)
+*  [Open Source SW](/PDFs/2.%20Open%20Source%20SW%20v3.pdf)
+*  [OSS License](/PDFs/3.%20OSS%20License.pdf)
+*  [Using Open Source SW](/PDFs/4.%20Using%20Open%20Source%20SW.pdf)
 
-## :computer: Git 다뤄보기
+## 2. Git 다뤄보기
 
-*  [Git 초급](/Slides/5.%20Git%20%EC%B4%88%EA%B8%89.pptx)
-*  [Git 중급 1](/Slides/6.%20Git%20%EC%A4%91%EA%B8%89%201.pptx)
-*  [Git 중급 2](/Slides/7.%20Git%20%EC%A4%91%EA%B8%89%202.pptx)
+*  [Git 초급](/PDFs/5.%20Git%20%EC%B4%88%EA%B8%89%20v3.pdf)
+*  [Git 중급 1](/PDFs/6.%20Git%20%EC%A4%91%EA%B8%89%201%20v2.pdf)
+*  [Git 중급 2](/PDFs/7.%20Git%20%EC%A4%91%EA%B8%89%202.pdf)
 
-## :computer: Git 다뤄보기
 
-*  [Git 초급](/Slides/5.%20Git%20%EC%B4%88%EA%B8%89.pptx)
-*  [Git 중급 1](/Slides/6.%20Git%20%EC%A4%91%EA%B8%89%201.pptx)
-*  [Git 중급 2](/Slides/7.%20Git%20%EC%A4%91%EA%B8%89%202.pptx)
+## 3. 코드분석
 
-## :computer: 코드분석
+*  [코드 분석 1](/PDFs/8.%20%EC%BD%94%EB%93%9C%20%EB%B6%84%EC%84%9D%201.pdf)
+*  [코드 분석 2](/PDFs/9.%20%EC%BD%94%EB%93%9C%20%EB%B6%84%EC%84%9D%202.pdf)
 
-*  [코드 분석 1](/Slides/8.%20%EC%BD%94%EB%93%9C%20%EB%B6%84%EC%84%9D%201.pptx)
-*  [코드 분석 2](/Slides/9.%20%EC%BD%94%EB%93%9C%20%EB%B6%84%EC%84%9D%202.pptx)
+## 4. GitHub Features & Pull Request
 
-## :computer: GitHub Features & Pull Request
+*  [GitHub Features](/PDFs/10.%20GitHub%20Features.pdf)
+*  [GitHub Pull Request](/PDFs/11.%20GitHub%20Pull%20Request.pdf)
 
-*  [GitHub Features](/Slides/10.%20GitHub%20Features.pptx)
-*  [GitHub Pull Request](/Slides/11.%20GitHub%20Pull%20Request.pptx)
+## 5. 코드리뷰
 
-## :computer: 코드리뷰
+*  [코드 리뷰](/PDFs/12.%20%EC%BD%94%EB%93%9C%20%EB%A6%AC%EB%B7%B0.pdf)
 
-*  [코드 리뷰](/Slides/12.%20%EC%BD%94%EB%93%9C%20%EB%A6%AC%EB%B7%B0.pptx)
+## 6. 개발 프로세스 실습
 
-## :computer: 개발 프로세스 실습
-
-*  [개발 프로세스 실습 1](/Slides/13.%20%EA%B0%9C%EB%B0%9C%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20%EC%8B%A4%EC%8A%B5%201.pptx)
-*  [개발 프로세스 실습 2](/Slides/14.%20%EA%B0%9C%EB%B0%9C%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20%EC%8B%A4%EC%8A%B5%202%20v2.pptx)
-*  [개발 프로세스 실습 3](/Slides/15.%20%EA%B0%9C%EB%B0%9C%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20%EC%8B%A4%EC%8A%B5%203.pptx)
+*  [개발 프로세스 실습 1](/PDFs/13.%20%EA%B0%9C%EB%B0%9C%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20%EC%8B%A4%EC%8A%B5%201.pdf)
+*  [개발 프로세스 실습 2](/PDFs/14.%20%EA%B0%9C%EB%B0%9C%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20%EC%8B%A4%EC%8A%B5%202%20v2.pdf)
+*  [개발 프로세스 실습 3](/PDFs/15.%20%EA%B0%9C%EB%B0%9C%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20%EC%8B%A4%EC%8A%B5%203.pdf)
 
 
