@@ -24,7 +24,23 @@ https://github.com/hyunchan-park/osscourse
 
 ****
 
-## OSS 소개
+## :octocat: OSS?
 
-* #### [Introduction OSS](https://github.com/cisxc/osscourse/blob/master/Slides/0.%20Introduction%20OSS.pptx)
+*  [Introduction OSS](https://github.com/cisxc/osscourse/blob/master/Slides/0.%20Introduction%20OSS.pptx)
+*  [OSS hitstory](https://github.com/cisxc/osscourse/blob/master/Slides/1.%20OSS%20hitstory.pptx)
+*  [Open Source SW](https://github.com/cisxc/osscourse/blob/master/Slides/2.%20Open%20Source%20SW.pptx)
+*  [OSS License](https://github.com/cisxc/osscourse/blob/master/Slides/3.%20OSS%20License.pptx)
+*  [Using Open Source SW](https://github.com/cisxc/osscourse/blob/master/Slides/4.%20Using%20Open%20Source%20SW.pptx)
+
+## :octocat: Git 다뤄보기
+
+*  [Git 초급](https://github.com/cisxc/osscourse/blob/master/Slides/5.%20Git%20%EC%B4%88%EA%B8%89.pptx)
+*  [Git 중급 1](https://github.com/cisxc/osscourse/blob/master/Slides/6.%20Git%20%EC%A4%91%EA%B8%89%201.pptx)
+*  [Git 중급 2](https://github.com/cisxc/osscourse/blob/master/Slides/7.%20Git%20%EC%A4%91%EA%B8%89%202.pptx)
+
+## :octocat: Git 다뤄보기
+
+*  [Git 초급](https://github.com/cisxc/osscourse/blob/master/Slides/5.%20Git%20%EC%B4%88%EA%B8%89.pptx)
+*  [Git 중급 1](https://github.com/cisxc/osscourse/blob/master/Slides/6.%20Git%20%EC%A4%91%EA%B8%89%201.pptx)
+*  [Git 중급 2](https://github.com/cisxc/osscourse/blob/master/Slides/7.%20Git%20%EC%A4%91%EA%B8%89%202.pptx)
 
