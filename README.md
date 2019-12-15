@@ -21,3 +21,10 @@ https://github.com/hyunchan-park/osscourse
 
 
 2019.12.11 15학번 이성주 학생 업데이트
+
+****
+
+## OSS 소개
+
+* #### [Introduction OSS](https://github.com/cisxc/osscourse/blob/master/Slides/0.%20Introduction%20OSS.pptx)
+
